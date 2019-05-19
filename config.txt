@@ -1,5 +1,5 @@
 owner=431636432185065482
-prefix=vPlay
+prefix=v
 game=VendTTa
 stayinchannel=true
 songinstatus=false
